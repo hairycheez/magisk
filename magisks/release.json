@@ -1,22 +1,22 @@
 {
   "app": {
-    "version": "5537b083",
-    "versionCode": "282",
-    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/app-release.apk",
+    "version": "7.5.2-2020041301-hairycheez",
+    "versionCode": "2020041301",
+    "link": "https://github.com/hairycheez/magisk/raw/master/magisks/app-release.apk",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md"
   },
   "magisk": {
-    "version": "ef9d077c",
-    "versionCode": "20401",
-    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/magisk-release.zip",
+    "version": "20.5-2020041301-hairycheez",
+    "versionCode": "2020041301",
+    "link": "https://github.com/hairycheez/magisk/raw/master/magisks/magisk-release.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md",
-    "md5": "eb913194892188604c38624535021919"
+    "md5": "fb5bc0860ec64ec6e2f75404c805a225"
   },
   "uninstaller": {
-    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/magisk-uninstaller.zip"
+    "link": "https://github.com/hairycheez/magisk/raw/master/magisks/magisk-uninstaller.zip"
   },
   "stub": {
     "versionCode": "9",
-    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/stub-release.apk"
+    "link": "https://github.com/hairycheez/magisk/blob/master/magisks/stub-release.apk"
   }
 }

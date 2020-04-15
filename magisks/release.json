@@ -1,13 +1,13 @@
 {
   "app": {
-    "version": "7.5.2-2020041301-hairycheez",
-    "versionCode": "2020041301",
+    "version": "7.5.2-2020041501-hairycheez",
+    "versionCode": "2020041501",
     "link": "https://github.com/hairycheez/magisk/raw/master/magisks/app-release.apk",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md"
   },
   "magisk": {
-    "version": "20.5-2020041301-hairycheez",
-    "versionCode": "2020041301",
+    "version": "20.5-2020041501-hairycheez",
+    "versionCode": "2020041501",
     "link": "https://github.com/hairycheez/magisk/raw/master/magisks/magisk-release.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/notes.md",
     "md5": "fb5bc0860ec64ec6e2f75404c805a225"
